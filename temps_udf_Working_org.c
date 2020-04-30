@@ -19,8 +19,7 @@ void ReadPowerLossFile()
 {
 #if !RP_HOST
 /***********************************
- * This currently does not correspond with the index system in the rest of the file
- * So something has to change....
+ * Index system
  ***********************************/
    int cnt1, cnt2;
    char mychar [255];
